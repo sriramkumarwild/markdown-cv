@@ -57,11 +57,11 @@ Projects:
 ### Conference
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-`2016` **Kumar, S.** and Savakis, A., 2016, September. Learning a perceptual manifold for image set classification. In 2016 IEEE International Conference on Image Processing (ICIP) (pp. 4433-4437). IEEE. [<a href="https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=10138&context=theses">Poster</a>]
+`2016` **Kumar, S.** and Savakis, A., 2016, September. Learning a perceptual manifold for image set classification. In 2016 IEEE International Conference on Image Processing (ICIP) (pp. 4433-4437). IEEE.
 
 `2016` **Kumar, S.**, Ghoraani, B. and Savakis, A., 2016. Joint and discriminative dictionary learning for facial expression recognition. Electronic Imaging, 2016(11), pp.1-6.
 
-`2016` **Kumar, S.** and Savakis, A., 2016. Robust domain adaptation on the L1-Grassmannian manifold. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 103-110). [<a href="https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=10138&context=theses">Poster</a>]
+`2016` **Kumar, S.** and Savakis, A., 2016. Robust domain adaptation on the L1-Grassmannian manifold. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 103-110).
 
 ## Articles
 
